@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffcc;
+    font-family: Georgia, serif;
+    color: #996633;
+  }
+  
+  h1 {
+    color: #b8712a;
+  }
+  
+  form {
+    border: 2px solid #996633;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  
+  label {
+    display: block;
+    margin-bottom:;
+    color:yellowgreen;
+    }
+
+select {
+  width: 200px;
+  padding: 5px;
+  font-size: 16px;
+  color: #540a0a;
+    }
+
+input[type="submit"] {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #000000;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+    }

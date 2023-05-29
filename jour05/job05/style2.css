@@ -1,0 +1,38 @@
+body {
+    background-color: #e6e6fa;
+    font-family: Verdana, sans-serif;
+    color: #800080;
+  }
+  
+  h1 {
+    color: #800080;
+  }
+  
+  form {
+    border: 2px solid #800080;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    color: #800080;
+  }
+  
+  select {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+    color: #333333;
+  }
+  
+  input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #800080;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  
