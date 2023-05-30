@@ -11,6 +11,7 @@ function occurrences($str, $char) {
 
     return $count;
 }
+
 $str = "Bonjour";
 $char = "o";
 
