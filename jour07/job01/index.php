@@ -18,7 +18,6 @@ if (isset($_POST['reset'])) {
     // Réinitialiser le compteur de visites
     $_SESSION['nbvisites'] = 0;
 }
-
 ?>
 
 <form method="post">
